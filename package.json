@@ -1,0 +1,26 @@
+{
+  "name": "support-me",
+  "version": "1.0.0",
+  "description": "when it goes brr, it will",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2pai/support-me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/2pai/support-me/issues"
+  },
+  "homepage": "https://github.com/2pai/support-me#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.6.0"
+  }
+}
